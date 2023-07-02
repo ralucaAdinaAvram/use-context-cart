@@ -1,0 +1,25 @@
+.container_about{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    place-items: center;
+    gap:4rem;
+
+}
+.l_about>img{
+margin: 40px;
+border-radius: 5px;
+-moz-box-shadow: 0 7px 20px #0e0e0e;
+    -webkit-box-shadow: 0 7px 20px #0e0e0e;
+    box-shadow: 0 7px 20px #0e0e0e;
+}
+.r_about>h2{
+    letter-spacing: 1px;
+    
+}
+.r_about{
+    width:40%;
+    font-size: 24px;
+    line-height: 40px;
+}
+
